@@ -1,0 +1,41 @@
+html {
+	background-color: #000000;
+	font-family: Verdana;
+}
+
+
+
+h1 {
+	color: white;
+	font-size: 50px;
+	font-weight: normal;
+	text-align: center;
+}
+
+
+ a {
+	text-align: center;
+}
+
+.download {
+	color: Aquamarine;
+	font-size: 16px;
+	
+}
+
+video {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#PersonalTravelGuide p, #footer p {
+	color: gray;
+	font-size: 21px;
+}
+
+#footer p {
+	text-align: right;
+}
